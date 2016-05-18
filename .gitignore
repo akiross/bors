@@ -22,3 +22,11 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# Compiled CGI script
+*.cgi
+
+# VIM temporary files
+~.swp
+~.swo
+
